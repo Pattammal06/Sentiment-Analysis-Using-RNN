@@ -1,0 +1,147 @@
+# 😊 Sentiment Analysis Using RNN
+
+## 📌 Project Overview
+
+This project performs Sentiment Analysis using a Recurrent Neural Network (RNN) on the IMDb movie review dataset. The model classifies movie reviews as Positive or Negative sentiments by learning sequential patterns in text data.
+
+The project demonstrates the application of Deep Learning and Natural Language Processing (NLP) techniques for text classification tasks.
+
+---
+
+## 🎯 Objectives
+
+* Classify movie reviews into positive and negative sentiments.
+* Learn text sequence patterns using RNN.
+* Evaluate model performance using classification metrics.
+* Visualize training performance and prediction results.
+
+---
+
+## 🛠 Technologies Used
+
+* Python
+* TensorFlow / Keras
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Jupyter Notebook
+
+---
+
+## 📂 Dataset
+
+Dataset: IMDb Movie Reviews Dataset
+
+* 50,000 movie reviews
+* Binary Sentiment Classification
+* Positive Reviews
+* Negative Reviews
+
+The dataset is loaded directly from TensorFlow Keras.
+
+---
+
+## 🚀 Project Workflow
+
+1. Import Required Libraries
+```python
+!pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from tensorflow.keras.datasets import imdb
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Embedding, SimpleRNN, Dense, Dropout
+from sklearn.metrics import confusion_matrix, classification_report
+ 
+3. Load IMDb Dataset
+4. Data Preprocessing
+5. Sequence Padding
+6. Build RNN Model
+7. Train the Model
+8. Predict Sentiments
+9. Evaluate Performance
+10. Visualize Results
+```
+
+---
+
+## 🧠 Model Architecture
+
+* Embedding Layer
+* Simple RNN Layer
+* Dropout Layer
+* Dense Hidden Layer
+* Output Layer (Sigmoid)
+
+---
+
+## 📊 Evaluation Metrics
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+* Precision
+* Recall
+* F1-Score
+
+---
+
+## 📈 Visualizations
+
+The project includes:
+
+1. Sentiment Distribution Plot
+2. Training Accuracy vs Epochs
+3. Validation Accuracy vs Epochs
+4. Training Loss vs Epochs
+5. Validation Loss vs Epochs
+6. Confusion Matrix Heatmap
+
+---
+
+## ▶️ Installation
+
+```bash
+pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+jupyter notebook/google colab
+```
+
+Open:
+
+```bash
+Sentiment_Analysis_Using_RNN.ipynb
+```
+
+---
+
+## 💡 Applications
+
+* Movie Review Analysis
+* Customer Feedback Analysis
+* Product Review Classification
+* Social Media Monitoring
+* Opinion Mining
+
+---
+
+## 👩‍💻 Author
+
+**Pattammal M**
+
+---
+
+## ⭐ GitHub
+
+If you found this project useful, please give it a ⭐ on GitHub.
