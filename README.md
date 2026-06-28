@@ -111,7 +111,6 @@ The project includes:
 <img width="1990" height="1181" alt="image" src="https://github.com/user-attachments/assets/2c859007-147e-4e50-a115-0cd781f9ec2a" />
 
 
-
 ---
 
 ## ▶️ Installation
