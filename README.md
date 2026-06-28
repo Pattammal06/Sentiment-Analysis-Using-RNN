@@ -90,13 +90,19 @@ The project includes:
 
 # Training Accuracy & Loss:
 
-![Uploading image.png…]()
+<img width="1289" height="495" alt="image" src="https://github.com/user-attachments/assets/98f3e579-6d46-4021-a560-bb20e59ec7b7" />
 
+# Confusion matrix 
 
-3. Validation Accuracy vs Epochs
-4. Training Loss vs Epochs
-5. Validation Loss vs Epochs
-6. Confusion Matrix Heatmap
+<img width="527" height="393" alt="image" src="https://github.com/user-attachments/assets/91bdfd45-9cf0-477a-9d7a-b86951cb6007" />
+
+Four Type Visualization
+
+<img width="1390" height="985" alt="image" src="https://github.com/user-attachments/assets/a1b02d05-8888-4bfd-927e-72ec22680092" />
+
+#Six Type Visualization
+
+<img width="1990" height="1181" alt="image" src="https://github.com/user-attachments/assets/2c859007-147e-4e50-a115-0cd781f9ec2a" />
 
 ---
 
