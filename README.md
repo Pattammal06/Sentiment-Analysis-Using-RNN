@@ -87,8 +87,12 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 The project includes:
 
-1. Sentiment Distribution Plot
-2. Training Accuracy vs Epochs
+
+# Training Accuracy & Loss:
+
+![Uploading image.png…]()
+
+
 3. Validation Accuracy vs Epochs
 4. Training Loss vs Epochs
 5. Validation Loss vs Epochs
