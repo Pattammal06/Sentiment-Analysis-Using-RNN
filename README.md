@@ -58,14 +58,6 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding, SimpleRNN, Dense, Dropout
 from sklearn.metrics import confusion_matrix, classification_report
  
-3. Load IMDb Dataset
-4. Data Preprocessing
-5. Sequence Padding
-6. Build RNN Model
-7. Train the Model
-8. Predict Sentiments
-9. Evaluate Performance
-10. Visualize Results
 ```
 
 ---
