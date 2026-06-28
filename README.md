@@ -26,7 +26,7 @@ The project demonstrates the application of Deep Learning and Natural Language P
 * Matplotlib
 * Seaborn
 * Scikit-Learn
-* Jupyter Notebook
+* colab Notebook
 
 ---
 
